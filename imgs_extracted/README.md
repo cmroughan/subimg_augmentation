@@ -1,0 +1,1 @@
+The `imgs_extracted` folder will be populated by subdirectories for each type of zone extracted when running `extract-regions.py`.
